@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/d40a2b7cafdf3ff122e41ec91945d3dea1bf69ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_83e402a2356a1e11df5636d8f9252428df6a887d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/8ca4ac16a6e1a28906fefb7037ad87d268cf5e93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_63f298350e9951250c29d3e22a5e3b81608ae416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/3c0033c7ed2c05dff4d45617f6b7ed44f337ed79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_898b3abf482f66e38aae21ae5acf97cbd3063108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/dd84e5037f9de516c502704a0b2d4d6d69487a83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_d2e3280f325ac5651bd567680a6f553948c8b993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/146658540a8f388b94f70c819a8cd86d9fe934e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_fa908055bcf734d3395c17ba3863efb2ba45e2d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/84427bdb66a2d9bf3834a6bf1f6fa8c9bdf857b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_e1bb86435a264f30356e2ca5f554dfe5317d93f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/848e1df873f2880691db3d2b4a3f9a6270a68d45/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_0840781b62561225c26ea95b2cb23dafdc28ff3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/3d61b2725bc5719078c393b3136e3b2e7a0444b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_ede807f11cbeef8241daaa205d9be2c1190673ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ae8604e93ed6636686aa41a062494e49961d0ab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/9191f01934d050582e755f121f393e70b24a1d15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_7d83281ece0c0722f76c6178635a0d375783a2c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/f29ce4363df0128f11044cceccefe3ceb268cc63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb5d8b5c47b4e5c0184a7986a26bc12cfc51cde3">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_783703ce97e625d13771f61c150e223c49ca1b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/1e07ab405c1ba4c80573710fe74799d39db15217/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_da5ff9c6d301f3a622028b4c778270e4b2f318ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/fdae047e151a8bab6e210b4e7cdc747bf1c2d4cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_a8d220d098aaeeb047e634623d6e514283d4cc26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/ba1fb65cb9d2e9f7a7c36928e5e69c63cfe08b41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_b77626f0c12153a46ff42c407814d91a59030339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/7e3aafb58d29ee6fee2963661b8747c27e61a412/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df6ca6aa5bfab0aa41d22eebbc8e40ce67341d94">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_b2281fbac966779d619717b114adbd3e2a301692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/a7eef29272902b6616b1c0904222e62f327ce271/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_5590c726889774b24d13a94c4719b5e6509adbf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/527e29d0a91e89613d05a1d14cb4e7bfb9ddef92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="febc85793ed271b9dc4955240fea69688a77edbd">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_fff68f6e9107202024235284af22be87272a7a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/cc25e382c4ceeb28a6146a19a6e93402121aed9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81b42e83cdd29418b6b319abee948d9056e392e2">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_e8fa446a13fa5a1350a081f3fb6f509e21b1a56a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/e95416b3817c79ceb6a912bc3c4b2931527fe3f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_36d5af82caeb03793cd2cdd1656c2286b82cb3e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_07b888953fd41acb804c567a6c0a0b85ee34c05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/ac59ffa32a6aa12ed104bda778aa7b45741d6231/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_29e9fab22e022ece28dda1e681344053c485cef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elezermaster/.android/build-cache/c32b562d1bcb57fd6e5f090b81b85f4ab1d1f902/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/elezermaster/Documents/PROJECT/STORA/2017/30_jule/ParseJsonToSqliteRecyclerUndoSwipe-master-master 2/app/build/intermediates/pre-dexed/debug/classes_b2004126cc56ed4f531d754d35f0811db459ab58.jar" />
+    </item>
+
+</items>
